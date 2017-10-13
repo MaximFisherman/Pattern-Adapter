@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  ConsoleApplication8.cpp
+c:\users\user\source\repos\consoleapplication8\consoleapplication8\consoleapplication8.cpp(33): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  ConsoleApplication8.vcxproj -> C:\Users\User\source\repos\ConsoleApplication8\Debug\ConsoleApplication8.exe
+  ConsoleApplication8.vcxproj -> C:\Users\User\source\repos\ConsoleApplication8\Debug\ConsoleApplication8.pdb (Partial PDB)
